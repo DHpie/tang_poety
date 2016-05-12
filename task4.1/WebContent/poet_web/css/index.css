@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    text-align:center;
+}
+
+#content{
+    width:600px;
+    height:200px;
+    margin:0px auto 250px;
+}    
+
+ img{
+	margin-top:50px;
+    margin-bottom:90px;
+    height:200px;
+    width:500px;
+}
+
+ #search{
+	maxlength:50;
+	width:400px;
+    line-height:30px;    
+    height:30px;
+    float:left;
+    border:1px solid #00F;
+}
+
+ #select{
+	width:80px;
+	height:30px;
+	float:left;
+	border:1px solid #00F;
+}
+
+ #buttonitem{
+    background-color:#00F;
+    color:#FFF;
+    width:100px;
+    height:30px;
+    float:left;
+    border:1px solid #00F;
+}

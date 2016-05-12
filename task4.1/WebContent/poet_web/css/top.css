@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    text-align:center;
+    overflow-y: hidden;
+}
+
+#content{
+    width:600px;
+    height:200px;
+    margin:0px auto 250px;
+}    
+
+#content img{
+    height:100px;
+    width:600px;
+}
